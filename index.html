@@ -1,0 +1,62 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" href="favicon.jpg"/>
+<title> Calcio Europero </title>
+<link rel="stylesheet" href="stileIndex.css">
+</head>
+
+<body>
+<div class="bg">
+<div align="center" id="title">Calcio Europero</div>
+<div align="middle">
+<table border="0" align="middle">
+<tr> <th><form action="ricerca_page.php" method="post"/><input type='hidden' name='page' value=1><input id='bigButton' type="image" name="submit" src="cerca.png" border="2px" style="width: 250px;"/></form></th>
+<th><form action="aggiunta_page.php" method="post"><input id='bigButton' type="image" name="submit" src="modifica.jfif" border="2px" style="width: 243px;"/></form></th> </tr>
+</table>
+<table border="0" align="middle">
+<tr> <th><form action="page_trasferimenti.php" method="post"><input id='bigButton' type="image" name="submit" src="trasferimenti.png" border="2px" style="width: 250px;height: 255px;"/></form></th>
+<th><form action="campionati.php" method="post"><input id='bigButton' type="image" name="submit" src="navigazioneAlbero.png" border="2px" style="width: 250px;height: 255px;"/></form></th> </tr>
+</table>
+</div>
+<div class="footer"><marquee direction="right"><font color="white" face="Arial">Federico Canali e Francesco Marchi</font><img src="run.gif" height="50px"></marquee></div>
+</div>
+
+<button class="button" onclick="document.getElementById('id01').style.display='block'" style="width:auto;position:absolute;top:5px;right:10px;"><font face="Arial" size="6" color="white">Settings</font></button>
+
+<div id="id01" class="modal">
+  
+  <form class="modal-content animate" action="settings_page.php" method="post">
+    <div class="imgcontainer">
+      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+      <img src="login.png" alt="Avatar" class="avatar" width="50px">
+    </div>
+
+    <div class="container">
+      <label for="uname"><b>Username</b></label>
+      <input type="text" placeholder="Enter Username" name="username" required>
+
+      <label for="psw"><b>Password</b></label>
+      <input type="password" placeholder="Enter Password" name="password" required>
+        
+      <button class="login" type="submit">Login</button>
+    </div>
+
+    <div class="container" style="background-color:#f1f1f1">
+      <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Annulla</button>
+    </div>
+  </form>
+</div>
+
+<script>
+var modal = document.getElementById('id01');
+
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
+</body>
+
+</html>
