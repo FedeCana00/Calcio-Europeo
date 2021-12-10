@@ -1,0 +1,98 @@
+CF,NOME,Cognome,Ruolo,DataNasc,Sponsor,Eta,Valore,Nazionalita,RF_Squadra (DA TOGLIERE quando importi)
+,Asmir,Begovic,P,20/06/1987,,34,1,Bosnia,Bournemouth
+,Mark,Travers,P,18/05/1999,,22,1,Irlanda,Bournemouth
+,Chris,Mepham,D,05/11/1997,,24,5,Galles,Bournemouth
+,Steve,Cook,D,19/04/1991,,30,4,Inghilterra,Bournemouth
+,Lloyd,Kelly,D,06/10/1998,,23,4,Inghilterra,Bournemouth
+,Diego,Rico,D,23/02/1993,,28,4,Spagna,Bournemouth
+,Jefferson,Lerma,C,25/10/1994,,27,10,Colombia,Bournemouth
+,Lewis,Cook,C,03/02/1997,,24,7,Inghilterra,Bournemouth
+,Philip,Billing,C,11/06/1996,,25,5,Danimarca,Bournemouth
+,Jack,Wilshere,C,01/01/1992,,29,2,Inghilterra,Bournemouth
+,Arnaut,Danjuma,A,31/01/1997,,24,7,Olanda,Bournemouth
+,David,Brooks,A,08/07/1997,,24,11,Galles,Bournemouth
+,David,Raya,P,15/09/1995,,26,4,Spagna,Brentford
+,Luke,Daniels,P,05/01/1988,,33,1,Inghilterra,Brentford
+,Pontus,Jansson,D,13/02/1991,,30,3,Svezia,Brentford
+,Ethan,Pinnock,D,29/05/1993,,28,2,Inghilterra,Brentford
+,Rico,Henry,D,08/07/1997,,24,3,Inghilterra,Brentford
+,Vitaly,Janelt,C,10/05/1998,,23,1,Germania,Brentford
+,Josh,Dasilva,C,23/10/1998,,23,4,Inghilterra,Brentford
+,Christian,Nörgaard,C,10/03/1994,,27,3,Danimarca,Brentford
+,Mathias,Jensen,C,01/01/1996,,25,2,Danimarca,Brentford
+,Bryan,Mbeumo,A,07/08/1999,,22,8,Francia,Brentford
+,Ivan,Toney,A,16/03/1996,,25,6,Francia,Brentford
+,Thomas,Kaminski,P,23/09/1992,,29,1,Belgio,Blackburn
+,Aynsley,Pears,P,23/04/1998,,23,1,Inghilterra,Blackburn
+,Daniel,Ayala,D,07/11/1990,,31,1,Spagna,Blackburn
+,Taylor,Harwood-Bellis,D,30/01/2002,,19,1,Inghilterra,Blackburn
+,Jarrad,Branthwaite,D,27/06/2002,,19,1,Inghilterra,Blackburn
+,Barry,Douglas,D,04/09/1989,,32,1,Scozia,Blackburn
+,Tom,Trybull,C,09/03/1993,,28,1,Germania,Blackburn
+,Joe,Rothwell,C,11/01/1995,,26,1,Inghilterra,Blackburn
+,Bradley,Johnson,C,28/04/1987,,34,1,Inghilterra,Blackburn
+,Lewis,Holtby,C,18/09/1990,,31,1,Germania,Blackburn
+,Bradley,Dack,A,31/12/1993,,28,4,Inghilterra,Blackburn
+,Harvey,Elliott,A,04/04/2003,,18,5,Inghilterra,Blackburn
+,Tim,Krul,P,03/04/1988,,33,2,Olanda,Norwich City
+,Örjan,Nyland,P,10/09/1990,,31,1,Norvegia,Norwich City
+,Ben,Gibson,D,15/01/1993,,28,2,Inghilterra,Norwich City
+,Christoph,Zimmermann,D,12/01/1993,,28,1,Germania,Norwich City
+,Xavi,Quintillà,D,23/08/1996,,25,2,Spagna,Norwich City
+,Max,Aarons,D,04/01/2000,,21,14,Inghilterra,Norwich City
+,Oliver,Skipp,C,16/09/2000,,21,5,Inghilterra,Norwich City
+,Kenny,McLean,C,08/01/1992,,29,2,Scozia,Norwich City
+,Lukas,Rupp,C,08/01/1991,,30,1,Germania,Norwich City
+,Todd,Cantwell,C,27/02/1998,,23,11,Inghilterra,Norwich City
+,Emiliano,Buendía,A,25/12/1996,,25,9,Argentina,Norwich City
+,Teemu,Pukki,A,29/03/1990,,31,4,Finlandia,Norwich City
+,Brice,Samba,P,25/04/1994,,27,1,Congo,Nottingham Forest
+,Abdoulaye,Diallo,P,30/03/1992,,29,1,Senegal,Nottingham Forest
+,Loïc,Mbe Soh,D,13/06/2001,,20,3,Francia,Nottingham Forest
+,Joe,Worrall,D,10/01/1997,,24,3,Inghilterra,Nottingham Forest
+,Scott,McKenna,D,12/11/1996,,25,1,Scozia,Nottingham Forest
+,Yuri,Ribeiro,D,24/01/1997,,24,1,Portogallo,Nottingham Forest
+,James,Garner,C,13/03/2001,,20,2,Inghilterra,Nottingham Forest
+,Jack,Colback,C,24/10/1989,,32,1,Inghilterra,Nottingham Forest
+,Harry,Arter,C,28/12/1989,,32,2,Irlanda,Nottingham Forest
+,Ryan,Yates,C,21/11/1997,,24,1,Inghilterra,Nottingham Forest
+,Filip,Krovinovic,A,29/08/1995,,26,4,Croazia,Nottingham Forest
+,Joe,Lolley,A,25/08/1992,,29,3,Inghilterra,Nottingham Forest
+,Angus,Gunn,P,22/01/1996,,25,2,Inghilterra,Stoke City
+,Josef,Bursik,P,12/07/2000,,21,1,Inghilterra,Stoke City
+,Harry,Souttar,D,22/10/1998,,23,2,Australia,Stoke City
+,Danny,Batth,D,21/09/1990,,21,1,Inghilterra,Stoke City
+,James,Chester,D,23/01/1989,,32,1,Galles,Stoke City
+,Nathan,Collins,D,30/04/2001,,20,1,Irlanda,Stoke City
+,John,Mikel Obi,C,22/04/1987,,34,1,Nigeria,Stoke City
+,Sam,Clucas,C,25/09/1990,,31,2,Inghilterra,Stoke City
+,Joe,Allen,C,14/03/1990,,31,2,Galles,Stoke City
+,James,McClean,C,22/04/1989,,32,2,Irlanda,Stoke City
+,Rabbi,Matondo,A,09/09/2000,,21,6,Galles,Stoke City
+,Tyrese,Campbell,A,28/12/1999,,22,4,Inghilterra,Stoke City
+,Freddie,Woodman,P,04/03/1997,,24,5,Inghilterra,Swansea City
+,Ben,Hamer,P,20/11/1987,,34,1,Inghilterra,Swansea City
+,Marc,Guehi,D,13/07/2000,,21,3,Inghilterra,Swansea City
+,Ben,Cabango,D,30/05/2000,,21,3,Galles,Swansea City
+,Ryan,Bennett,D,06/03/1990,,31,2,Inghilterra,Swansea City
+,Connor,Roberts,D,23/09/1995,,26,2,Galles,Swansea City
+,Matt,Grimes,C,15/07/1995,,26,5,Inghilterra,Swansea City
+,Conor,Hourihane,C,02/02/1991,,32,4,Irlanda,Swansea City
+,Jay,Fulton,C,04/04/1994,,27,1,Scozia,Swansea City
+,Paul,Arriola,C,05/02/1995,,26,2,Stati Uniti,Swansea City
+,Jordan,Morris,A,26/ott/1994,,27,3,Stati Uniti,Swansea City
+,André,Ayew,A,17/12/1989,,32,2,Ghana,Swansea City
+,Ben,Foster,P,03/04/1983,,38,1,Inghlterra,Watford
+,Rob,Elliot,P,30/04/1986,,35,1,Irlanda,Watford
+,Christian,Kabasele,D,24/02/1991,,30,3,Belgio,Watford
+,William,Troost-Ekong,D,01/09/1993,,28,2,Nigeria,Watford
+,Ben,Wilmot,D,04/11/1999,,22,2,Inghilterra,Watford
+,Adam,Masina,D,02/01/1994,,27,3,Italia,Watford
+,Nathaniel,Chalobah,C,12/12/1994,,27,3,Italia,Watford
+,Will,Hughes,C,17/04/1995,,26,6,Inghilterra,Watford
+,Tom,Cleverley,C,12/08/1989,,32,2,Inghilterra,Watford
+,Ken,Sema,C,30/09/1993,,28,3,Svezia,Watford
+,Ismaïla,Sarr,A,25/02/1998,,23,16,Senegal,Watford
+,João,Pedro,A,26/09/2001,,20,7,Brasile,Watford
+
+
